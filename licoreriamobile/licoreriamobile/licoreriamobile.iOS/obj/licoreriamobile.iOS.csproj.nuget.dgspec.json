@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\licoreriamobile.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\licoreriamobile.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\licoreriamobile.iOS.csproj",
+        "projectName": "licoreriamobile.iOS",
+        "projectPath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\licoreriamobile.iOS.csproj",
+        "packagesPath": "C:\\Users\\jgarcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jgarcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\licoreriamobile.csproj": {
+                "projectPath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\licoreriamobile.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\licoreriamobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\licoreriamobile.csproj",
+        "projectName": "licoreriamobile",
+        "projectPath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\licoreriamobile.csproj",
+        "packagesPath": "C:\\Users\\jgarcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jgarcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

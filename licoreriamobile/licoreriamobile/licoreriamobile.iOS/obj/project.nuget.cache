@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6vfFsYuZhrNOwtxXEuMGdE2mvOCcXHgUd2esLtiva8ePklQxFQjXprx3m0vOvY2HFkqeFunodx/+B13wFc2XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgarcia\\Documents\\servicio\\licoreriamobile\\licoreriamobile\\licoreriamobile.iOS\\licoreriamobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgarcia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

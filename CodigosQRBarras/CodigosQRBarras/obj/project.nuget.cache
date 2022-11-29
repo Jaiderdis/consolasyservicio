@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHvO7zfWAG1h2O3Aim89jjhG5mUbMWV9cSHNx+bHUb/s984qXcrI/tLeZz+I8V22qflvQMWsQkR1sEoFL7yBnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgarcia\\Documents\\servicio\\CodigosQRBarras\\CodigosQRBarras\\CodigosQRBarras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgarcia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

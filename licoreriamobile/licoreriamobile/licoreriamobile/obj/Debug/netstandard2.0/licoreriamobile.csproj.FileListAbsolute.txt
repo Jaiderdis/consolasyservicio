@@ -1,0 +1,15 @@
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\bin\Debug\netstandard2.0\licoreriamobile.deps.json
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\bin\Debug\netstandard2.0\licoreriamobile.dll
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\bin\Debug\netstandard2.0\licoreriamobile.pdb
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.csproj.AssemblyReference.cache
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.AssemblyInfoInputs.cache
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.AssemblyInfo.cs
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.dll
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\refint\licoreriamobile.dll
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\licoreriamobile.pdb
+C:\Users\jgarcia\Documents\servicio\licoreriamobile\licoreriamobile\licoreriamobile\obj\Debug\netstandard2.0\ref\licoreriamobile.dll

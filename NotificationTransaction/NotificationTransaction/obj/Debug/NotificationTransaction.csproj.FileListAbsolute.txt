@@ -1,0 +1,10 @@
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.csproj.AssemblyReference.cache
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.NotificationsT.resources
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.csproj.GenerateResource.cache
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\bin\Debug\NotificationTransaction.exe.config
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\bin\Debug\NotificationTransaction.exe
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\bin\Debug\NotificationTransaction.pdb
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.exe
+C:\Users\jgarcia\Documents\servicio\NotificationTransaction\NotificationTransaction\obj\Debug\NotificationTransaction.pdb

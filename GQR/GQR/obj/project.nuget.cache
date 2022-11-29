@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "etfzQkk8FrS2IUZoyodcVgKfzQ0ayvvhIkvZ3gQhj8z5mpmX+YFy2kEs2sl9Z4WCk8lzfozFNa7KGPQ3t7arLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgarcia\\Documents\\servicio\\GQR\\GQR\\GQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgarcia\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\jgarcia\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
